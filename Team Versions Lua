@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/13ddc5dfa6023afdc380ef6b8208f01100eb2c082c7615caeddf74357ecb94e6/download"))()
+loadstring(game:HttpGet("http://lurnai-hub.hostedbyfps.com/player/Galaxy-Hub.php"))()
